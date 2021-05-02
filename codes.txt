@@ -1,6 +1,22 @@
 usernam- Madhur
+initialize or access git init
+git status
+git add filename
+git add --all
+git commit, i, WQ, quit
+git commit -m "comment"
+touch filename - new file
+git checkout -f - last commit checkpoint restore
+git log
+git log -p -100 shows last 100 commits
+git diff
+git diff -staged
+git commit -a -m for direct commit
+git rm for deleting file
+git rm --cached filename
+git status -s
+touch .gitignore /filename or */.extension
 
-*after diary notes
 git status
 git branch
 git branch branch1_example

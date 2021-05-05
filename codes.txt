@@ -17,6 +17,8 @@ git rm --cached filename
 git status -s
 touch .gitignore /filename or */.extension
 
+
+*after diary notes
 git status
 git branch
 git branch branch1_example

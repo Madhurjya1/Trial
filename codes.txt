@@ -39,3 +39,11 @@ and
 git remote add origin https://github.com/Madhurjya1/Trial.git
 git branch -M main
 git push -u origin main
+
+
+ssh keys -
+ssh-keygen -t ed25519 -C "your_email@example.com"
+
+
+
+
